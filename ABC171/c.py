@@ -16,3 +16,15 @@ def main():
         
 if __name__ == '__main__':
     main()
+
+# 回答例
+# N = int(input())
+
+# c = ''
+# while N:
+#     N -= 1
+#     a = N % 26
+#     N = N // 26
+#     c = chr(a + ord('a')) + c
+
+# print(c)
